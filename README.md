@@ -8,6 +8,7 @@
 3. создайте в корневой папке файл .env со следующим содержанием:
 
 TELEGRAM_BOT_API_TOKEN=yourApiTоken
+
 CHANNEL_NAME=@yourchannelname
 
 4. Добавьте своего бота в список администраторов канала
